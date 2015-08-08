@@ -242,30 +242,22 @@ footer button{
 
 
 
-
-
-
 @media only screen and (min-width:560px){
-.modal-dialog{
-    margin-left:15%;
-}
-   .modal-content{
-        width:100%;}
+
       .bottom-footer li{
-    
     
           
     width:100%;
     margin-right:40px;
-    font-size: 1.333em;  
-   
-
-
-    
-    
+    font-size: 1.333em;    
+}
 }
 @media only screen and (min-width:800px){
-  
+  .modal-dialog{
+    margin-left:15%;
+}
+   .modal-content{
+        width:100%;}
     .cycle-slideshow{
     width:60%;
     height:90%}
